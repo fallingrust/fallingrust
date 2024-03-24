@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on [AliyunDNS](https://github.com/fallingrust/AliyunDNS)
 
-- 🌱 I’m currently learning **Kotlin、Rust、Blazor**
-
 - 🔭 I’m currently working on [XMagnetSearch](https://github.com/fallingrust/XMagnetSearch)
 
-- 🔭 I’m currently working on [GB28181Client](https://github.com/fallingrust/GB28181Client)
-
+- 🔭 I’m currently working on [Jellyfin-Plugin-AdultsSubtitle](https://github.com/fallingrust/Jellyfin-Plugin-AdultsSubtitle)
+  
+- 🌱 I’m currently learning **Kotlin、Rust、Blazor**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/fallingrust](https://github.com/fallingrust)
 
 <h3 align="left">Connect with me:</h3>
