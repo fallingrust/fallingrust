@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fallingrust" alt="fallingrust" /></a> </p>
 
-- 🔭 I’m currently working on [AliyunDNS](https://github.com/fallingrust/AliyunDNS)
+- 🔭 I’m currently working on [AliyunDNS](https://github.com/fallingrust/AliyunSDK.DNS)
 
 - 🔭 I’m currently working on [XMagnetSearch](https://github.com/fallingrust/XMagnetSearch)
 
